@@ -1,2 +1,2 @@
-# Kaggle
-Соревнования с Kaggle
+# Kaggle Competitions
+
